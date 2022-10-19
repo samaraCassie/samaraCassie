@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 Sou uma amante da programação (づ￣ 3￣)づ
 
 Estou no segundo semestre do curso técnico de desenvolvimento de sistemas no Instituto Federal de Santa Catarina.
-\n
-\n
+<br>
+<br>
 ***Estudando atualmente:***
   - Banco de Dados (com MySql)
   - Programação Orientada a Objetos (com Java)
