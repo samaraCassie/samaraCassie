@@ -1,4 +1,4 @@
-### Olá Mundo 👋
+### Olá Mundo!! 👋
 
 <!--
 **samaraCassie/samaraCassie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,8 @@ Sou uma amante da programação (づ￣ 3￣)づ
 Estou no segundo semestre do curso técnico de desenvolvimento de sistemas no Instituto Federal de Santa Catarina.
 
   
-**Estudando atualmente:**
+  
+***Estudando atualmente:***
   - Banco de Dados (com MySql)
   - Programação Orientada a Objetos (com Java)
   - Estrutura de Dados (com C e C++)
