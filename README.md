@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 </div>
   
 Sou uma amante da programação (づ￣ 3￣)づ
+  
 Estou no segundo semestre do curso técnico de desenvolvimento de sistemas no Instituto Federal de Santa Catarina.
 
 Estudando atualmente:
