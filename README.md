@@ -29,11 +29,13 @@ Estudando atualmente:
   - Programação Orientada a Objetos (com Java)
   - Estrutura de Dados (com C e C++)
   
+  
 Estudando por Conta:
   - TypeScript
   - Layout Grid
   - Python
 
+  
 Principais projetinhos de Front-end:
 - https://github.com/samaraCassie/CookiesPower
 - https://github.com/samaraCassie/meuPrimeiroSite
