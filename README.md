@@ -19,3 +19,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samaraCassie&show_icons=true&icon_color=994343&locale=pt-br&title_color=994343&text_color=fff8f0&bg_color=212121&hide_border=true%include_all_commits=true&Star_private=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraCassie&layout=compact&langs_count=7&locale=pt-br&title_color=994343&text_color=fff8f0&bg_color=212121&hide_border=true"/>
 </div>
+
+Principais projetinhos de Front-end:
+- https://github.com/samaraCassie/CookiesPower
+- https://github.com/samaraCassie/meuPrimeiroSite
+- https://github.com/samaraCassie/meuSegundoSite
