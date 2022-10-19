@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 </div>
   
 Sou uma amante da programação (づ￣ 3￣)づ
-  
 Estou no segundo semestre do curso técnico de desenvolvimento de sistemas no Instituto Federal de Santa Catarina.
 
+  
 Estudando atualmente:
-•Banco de Dados (com MySql)
-•Programação Orientada a Objetos (com Java)
-•Estrutura de Dados (com C e C++)
-
+  - Banco de Dados (com MySql)
+  - Programação Orientada a Objetos (com Java)
+  - Estrutura de Dados (com C e C++)
+  
 Estudando por Conta:
-•TypeScript
-•Layout Grid
-•Python
+  - TypeScript
+  - Layout Grid
+  - Python
 
 Principais projetinhos de Front-end:
 - https://github.com/samaraCassie/CookiesPower
