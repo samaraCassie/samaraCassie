@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/samaraCassie">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samaraCassie&show_icons=true&icon_color=994343&locale=pt-br&title_color=994343&text_color=fff8f0&bg_color=212121&hide_border=true%include_all_commits=false&Star_private=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraCassie&layout=compact&langs_count=7&locale=pt-br&title_color=994343&text_color=fff8f0&bg_color=212121&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraCassie&layout=compact&langs_count=7&locale=pt-br&title_color=994343&text_color=fff8f0&bg_color=212121&hide_border=false&count_private=true"/>
 </div> 
   
 Sou uma amante da programação (づ￣ 3￣)づ<br> 
